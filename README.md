@@ -4,7 +4,7 @@
 
     # Installed Softwares
     ---------------------
-    minikube or k8s
+    minikube or k8s(kubernetes)
     docker community edition
     Git
     
