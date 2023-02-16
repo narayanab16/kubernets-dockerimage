@@ -1,4 +1,4 @@
-# kubernets-dockerimage
+# kubernets-dockerimage use the existing docker image
 # How to create docker images: <a href="https://github.com/narayanab16/sampledocker" target="_blank">sampledocker</a>
     
 
