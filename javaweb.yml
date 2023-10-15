@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: javaweb
   labels:
-    name: javaweb
+    app.kubernetes.io/name: javaweb
 spec:
   containers:
   - name: javaweb
